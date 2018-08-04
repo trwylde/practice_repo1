@@ -1,0 +1,30 @@
+.jumbotron {
+    background-color:  #888;
+    color: #333; 
+}
+
+.container {
+    background-color: rgb(243, 240, 240);
+}
+
+.display-4 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 84px;
+    color: 4B0082;
+}
+
+.lead {
+    font-family: 'Indie Flower', cursive;
+    text-align: right;
+    color: 4B0082;
+}
+p1 {
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+    color: rgb(28, 23, 100);
+}
+
+.list-group {
+    font-family: 'Handlee', cursive;
+    color: blueviolet;
+}
